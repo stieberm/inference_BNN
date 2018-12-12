@@ -1,0 +1,7 @@
+ipython==7.2.0
+matplotlib==3.0.1
+numpy==1.15.4
+pathlib==1.0.1
+PyNEST==2.8.0
+scipy==1.1.0
+blas==1.0  

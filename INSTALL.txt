@@ -1,0 +1,6 @@
+
+
+1) Install the nest simulator 2.1.4
+	NEST:		http://www.nest-simulator.org/installation/
+
+2) Install the packages spectified in requirements.txt.
